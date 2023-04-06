@@ -119,16 +119,16 @@
   </resheader>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="infoToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>224, 26</value>
+    <value>173, 26</value>
   </data>
   <data name="infoToolStripMenuItem.Text" xml:space="preserve">
     <value>Інформація</value>
   </data>
   <data name="exitToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>221, 6</value>
+    <value>170, 6</value>
   </data>
   <data name="exitToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>224, 26</value>
+    <value>173, 26</value>
   </data>
   <data name="exitToolStripMenuItem1.Text" xml:space="preserve">
     <value>Вихід</value>

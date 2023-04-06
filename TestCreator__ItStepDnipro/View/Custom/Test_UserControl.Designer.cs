@@ -42,6 +42,7 @@
             this.Question_TB = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.Finish_Btn = new System.Windows.Forms.Button();
+            this.testNumb_Label = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // button1
@@ -142,10 +143,17 @@
             this.Finish_Btn.UseVisualStyleBackColor = true;
             this.Finish_Btn.Click += new System.EventHandler(this.Finish_Btn_Click);
             // 
+            // testNumb_Label
+            // 
+            resources.ApplyResources(this.testNumb_Label, "testNumb_Label");
+            this.testNumb_Label.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.testNumb_Label.Name = "testNumb_Label";
+            // 
             // Test_UserControl
             // 
             resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.Controls.Add(this.testNumb_Label);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.Finish_Btn);
             this.Controls.Add(this.PrevQuestion_Btn);
@@ -180,5 +188,6 @@
         private System.Windows.Forms.TextBox Question_TB;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button Finish_Btn;
+        private System.Windows.Forms.Label testNumb_Label;
     }
 }

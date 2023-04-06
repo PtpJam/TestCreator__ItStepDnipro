@@ -20,6 +20,8 @@ namespace TestCreator__ItStepDnipro.View.Custom
             InitializeComponent();
             this.testController = testController;
             Question_TB.Focus();
+
+            testNumb_Label.Text = $"0/40";
         }
         private void TB_Enter(object sender, EventArgs e)
         {
@@ -28,6 +30,9 @@ namespace TestCreator__ItStepDnipro.View.Custom
                 (sender as CheckBox).BackColor = SELECT_COLOR;
             else
                 (sender as Control).BackColor = SELECT_COLOR;
+
+            if (sender is TextBox)
+                (sender as TextBox).ScrollBars = ScrollBars.Vertical;
 
         }
         private void TB_Leave(object sender, EventArgs e)
@@ -58,6 +63,7 @@ namespace TestCreator__ItStepDnipro.View.Custom
             q.Answers.Add(new Model.Answer(4, this.Ans_4_TB.Text, this.Ans_4_CB.Checked));
             testController.AddQueesiont(q);
             this.Question_TB.Focus();
+            testNumb_Label.Text = $"{testController.TestProperty.Questions.Count.ToString()}/40";
         }
         private void AddQuestion_Btn_Click(object sender, EventArgs e)
         {

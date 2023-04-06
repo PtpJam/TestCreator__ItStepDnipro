@@ -117,305 +117,182 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;Ans_4_CB.Name" xml:space="preserve">
-    <value>Ans_4_CB</value>
-  </data>
-  <data name="label1.Text" xml:space="preserve">
-    <value>Question</value>
-  </data>
-  <data name="&gt;&gt;PrevQuestion_Btn.Name" xml:space="preserve">
-    <value>PrevQuestion_Btn</value>
-  </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Finish_Btn.TabIndex" type="System.Int32, mscorlib">
-    <value>24</value>
-  </data>
-  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;Ans_4_CB.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;$this.Type" xml:space="preserve">
-    <value>System.Windows.Forms.UserControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;Ans_4_TB.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="Ans_1_TB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>73, 189</value>
-  </data>
-  <data name="&gt;&gt;Question_TB.Name" xml:space="preserve">
-    <value>Question_TB</value>
-  </data>
-  <data name="Finish_Btn.Size" type="System.Drawing.Size, System.Drawing">
-    <value>107, 105</value>
-  </data>
-  <data name="Question_TB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>142, 4</value>
-  </data>
-  <data name="&gt;&gt;Finish_Btn.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;Ans_1_TB.Name" xml:space="preserve">
-    <value>Ans_1_TB</value>
-  </data>
-  <data name="&gt;&gt;Ans_4_CB.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Ans_4_TB.TabIndex" type="System.Int32, mscorlib">
-    <value>18</value>
-  </data>
-  <data name="Finish_Btn.Location" type="System.Drawing.Point, System.Drawing">
-    <value>541, 304</value>
-  </data>
-  <data name="&gt;&gt;Question_TB.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="Ans_4_CB.TabIndex" type="System.Int32, mscorlib">
-    <value>22</value>
-  </data>
-  <data name="&gt;&gt;Ans_1_CB.Name" xml:space="preserve">
-    <value>Ans_1_CB</value>
-  </data>
-  <data name="&gt;&gt;Ans_4_TB.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Finish_Btn.Text" xml:space="preserve">
-    <value>Finish</value>
-  </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="label1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 0, 4, 0</value>
-  </data>
-  <data name="Question_TB.Size" type="System.Drawing.Size, System.Drawing">
-    <value>960, 24</value>
-  </data>
-  <data name="&gt;&gt;Finish_Btn.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="Ans_1_CB.TabIndex" type="System.Int32, mscorlib">
-    <value>19</value>
-  </data>
-  <data name="Ans_2_CB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>704, 161</value>
-  </data>
-  <data name="&gt;&gt;Ans_2_TB.ZOrder" xml:space="preserve">
-    <value>8</value>
-  </data>
-  <data name="Ans_1_TB.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
-  </data>
-  <data name="Ans_3_CB.Text" xml:space="preserve">
-    <value>This is the correct answer 3</value>
-  </data>
-  <data name="&gt;&gt;Ans_3_CB.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;Ans_4_TB.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="Ans_2_TB.TabIndex" type="System.Int32, mscorlib">
-    <value>16</value>
-  </data>
-  <data name="&gt;&gt;Ans_3_CB.Name" xml:space="preserve">
-    <value>Ans_3_CB</value>
-  </data>
-  <data name="Ans_1_CB.Size" type="System.Drawing.Size, System.Drawing">
-    <value>189, 20</value>
-  </data>
-  <data name="&gt;&gt;Ans_1_CB.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;Ans_2_TB.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="Ans_3_TB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>69, 375</value>
-  </data>
-  <data name="Ans_4_CB.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
-  </data>
-  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>60, 16</value>
-  </data>
-  <data name="&gt;&gt;label1.Name" xml:space="preserve">
-    <value>label1</value>
-  </data>
-  <data name="Ans_3_TB.Multiline" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;Ans_4_TB.Name" xml:space="preserve">
-    <value>Ans_4_TB</value>
-  </data>
-  <data name="PrevQuestion_Btn.Location" type="System.Drawing.Point, System.Drawing">
-    <value>479, 189</value>
-  </data>
-  <data name="&gt;&gt;button1.Name" xml:space="preserve">
-    <value>button1</value>
-  </data>
-  <data name="&gt;&gt;Ans_3_CB.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;button1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Ans_3_TB.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
-  </data>
-  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>69, 8</value>
-  </data>
-  <data name="&gt;&gt;Ans_2_TB.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;Ans_3_CB.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="button1.Text" xml:space="preserve">
-    <value>Add Question</value>
-  </data>
-  <data name="&gt;&gt;PrevQuestion_Btn.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="Ans_1_CB.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;Ans_2_CB.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>592, 189</value>
   </data>
   <data name="button1.Size" type="System.Drawing.Size, System.Drawing">
     <value>107, 105</value>
   </data>
-  <data name="&gt;&gt;Ans_4_CB.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;Ans_2_TB.Name" xml:space="preserve">
-    <value>Ans_2_TB</value>
-  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="button1.TabIndex" type="System.Int32, mscorlib">
     <value>23</value>
   </data>
-  <data name="&gt;&gt;Question_TB.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="button1.Text" xml:space="preserve">
+    <value>Add Question</value>
   </data>
-  <data name="Ans_3_CB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>69, 347</value>
+  <data name="&gt;&gt;button1.Name" xml:space="preserve">
+    <value>button1</value>
   </data>
-  <data name="&gt;&gt;Question_TB.ZOrder" xml:space="preserve">
-    <value>11</value>
+  <data name="&gt;&gt;button1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;Ans_3_TB.ZOrder" xml:space="preserve">
-    <value>6</value>
+  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
-  <data name="&gt;&gt;Ans_2_CB.ZOrder" xml:space="preserve">
-    <value>7</value>
+  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
+    <value>1</value>
   </data>
-  <data name="&gt;&gt;Ans_2_CB.Name" xml:space="preserve">
-    <value>Ans_2_CB</value>
-  </data>
-  <data name="&gt;&gt;Ans_1_TB.ZOrder" xml:space="preserve">
-    <value>10</value>
-  </data>
-  <data name="Ans_2_TB.Multiline" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;Ans_3_TB.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Ans_2_CB.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
-  </data>
-  <data name="&gt;&gt;label1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Ans_2_TB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>704, 189</value>
-  </data>
-  <data name="Ans_3_CB.TabIndex" type="System.Int32, mscorlib">
-    <value>21</value>
+  <data name="PrevQuestion_Btn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>479, 189</value>
   </data>
   <data name="PrevQuestion_Btn.Size" type="System.Drawing.Size, System.Drawing">
     <value>107, 105</value>
   </data>
-  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>8, 16</value>
+  <data name="PrevQuestion_Btn.TabIndex" type="System.Int32, mscorlib">
+    <value>25</value>
   </data>
-  <data name="Ans_2_TB.Size" type="System.Drawing.Size, System.Drawing">
-    <value>399, 24</value>
+  <data name="PrevQuestion_Btn.Text" xml:space="preserve">
+    <value>Prev</value>
   </data>
-  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
-    <value>12</value>
+  <data name="&gt;&gt;PrevQuestion_Btn.Name" xml:space="preserve">
+    <value>PrevQuestion_Btn</value>
   </data>
-  <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>592, 189</value>
-  </data>
-  <data name="Ans_2_CB.Size" type="System.Drawing.Size, System.Drawing">
-    <value>189, 20</value>
-  </data>
-  <data name="&gt;&gt;Finish_Btn.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="Ans_1_CB.Text" xml:space="preserve">
-    <value>This is the correct answer 1</value>
-  </data>
-  <data name="&gt;&gt;Finish_Btn.Name" xml:space="preserve">
-    <value>Finish_Btn</value>
-  </data>
-  <data name="&gt;&gt;Ans_1_CB.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="Ans_1_TB.Size" type="System.Drawing.Size, System.Drawing">
-    <value>399, 24</value>
-  </data>
-  <data name="Ans_3_TB.Size" type="System.Drawing.Size, System.Drawing">
-    <value>399, 24</value>
-  </data>
-  <data name="&gt;&gt;Ans_2_CB.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="label1.TabIndex" type="System.Int32, mscorlib">
-    <value>13</value>
+  <data name="&gt;&gt;PrevQuestion_Btn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;PrevQuestion_Btn.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
+  <data name="&gt;&gt;PrevQuestion_Btn.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="Ans_4_CB.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
   <data name="Ans_4_CB.Location" type="System.Drawing.Point, System.Drawing">
     <value>700, 347</value>
   </data>
-  <data name="Ans_1_TB.Multiline" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>Test_UserControl</value>
-  </data>
-  <data name="Ans_4_TB.Size" type="System.Drawing.Size, System.Drawing">
-    <value>399, 24</value>
-  </data>
-  <data name="Question_TB.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Ans_4_CB.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>
-  </data>
-  <data name="$this.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1183, 539</value>
-  </data>
-  <data name="Ans_4_TB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>700, 375</value>
-  </data>
-  <data name="Ans_1_TB.TabIndex" type="System.Int32, mscorlib">
-    <value>15</value>
-  </data>
-  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
-    <value>0</value>
   </data>
   <data name="Ans_4_CB.Size" type="System.Drawing.Size, System.Drawing">
     <value>189, 20</value>
   </data>
+  <data name="Ans_4_CB.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <data name="Ans_4_CB.Text" xml:space="preserve">
+    <value>This is the correct answer 4</value>
+  </data>
+  <data name="&gt;&gt;Ans_4_CB.Name" xml:space="preserve">
+    <value>Ans_4_CB</value>
+  </data>
+  <data name="&gt;&gt;Ans_4_CB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Ans_4_CB.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Ans_4_CB.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="Ans_4_TB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>700, 375</value>
+  </data>
+  <data name="Ans_4_TB.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="Ans_4_TB.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Ans_4_TB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>399, 24</value>
+  </data>
+  <data name="Ans_4_TB.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="&gt;&gt;Ans_4_TB.Name" xml:space="preserve">
+    <value>Ans_4_TB</value>
+  </data>
+  <data name="&gt;&gt;Ans_4_TB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Ans_4_TB.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Ans_4_TB.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="Ans_3_CB.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Ans_3_CB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>69, 347</value>
+  </data>
+  <data name="Ans_3_CB.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="Ans_3_CB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>189, 20</value>
+  </data>
+  <data name="Ans_3_CB.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
+  </data>
+  <data name="Ans_3_CB.Text" xml:space="preserve">
+    <value>This is the correct answer 3</value>
+  </data>
+  <data name="&gt;&gt;Ans_3_CB.Name" xml:space="preserve">
+    <value>Ans_3_CB</value>
+  </data>
+  <data name="&gt;&gt;Ans_3_CB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Ans_3_CB.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Ans_3_CB.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="Ans_3_TB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>69, 375</value>
+  </data>
+  <data name="Ans_3_TB.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="Ans_3_TB.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Ans_3_TB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>399, 24</value>
+  </data>
+  <data name="Ans_3_TB.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
   <data name="&gt;&gt;Ans_3_TB.Name" xml:space="preserve">
     <value>Ans_3_TB</value>
+  </data>
+  <data name="&gt;&gt;Ans_3_TB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Ans_3_TB.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Ans_3_TB.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="Ans_2_CB.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Ans_2_CB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>704, 161</value>
+  </data>
+  <data name="Ans_2_CB.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="Ans_2_CB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>189, 20</value>
   </data>
   <data name="Ans_2_CB.TabIndex" type="System.Int32, mscorlib">
     <value>20</value>
@@ -423,76 +300,226 @@
   <data name="Ans_2_CB.Text" xml:space="preserve">
     <value>This is the correct answer 2</value>
   </data>
-  <data name="Ans_4_TB.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
+  <data name="&gt;&gt;Ans_2_CB.Name" xml:space="preserve">
+    <value>Ans_2_CB</value>
   </data>
-  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+  <data name="&gt;&gt;Ans_2_CB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Ans_2_CB.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="Ans_4_TB.Multiline" type="System.Boolean, mscorlib">
-    <value>True</value>
+  <data name="&gt;&gt;Ans_2_CB.ZOrder" xml:space="preserve">
+    <value>8</value>
   </data>
-  <data name="Ans_1_CB.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
-  </data>
-  <data name="Ans_2_CB.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;Ans_1_TB.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="Ans_3_CB.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
-  </data>
-  <data name="Ans_3_TB.TabIndex" type="System.Int32, mscorlib">
-    <value>17</value>
-  </data>
-  <data name="&gt;&gt;Ans_1_CB.ZOrder" xml:space="preserve">
-    <value>9</value>
-  </data>
-  <data name="Ans_4_CB.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
+  <data name="Ans_2_TB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>704, 189</value>
   </data>
   <data name="Ans_2_TB.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>
   </data>
-  <data name="&gt;&gt;Ans_3_TB.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="Ans_2_TB.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
-  <data name="Ans_4_CB.Text" xml:space="preserve">
-    <value>This is the correct answer 4</value>
+  <data name="Ans_2_TB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>399, 24</value>
   </data>
-  <data name="PrevQuestion_Btn.TabIndex" type="System.Int32, mscorlib">
-    <value>25</value>
+  <data name="Ans_2_TB.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
   </data>
-  <data name="&gt;&gt;Ans_1_TB.Type" xml:space="preserve">
+  <data name="&gt;&gt;Ans_2_TB.Name" xml:space="preserve">
+    <value>Ans_2_TB</value>
+  </data>
+  <data name="&gt;&gt;Ans_2_TB.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="Ans_3_CB.Size" type="System.Drawing.Size, System.Drawing">
-    <value>189, 20</value>
+  <data name="&gt;&gt;Ans_2_TB.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
-  <data name="Question_TB.TabIndex" type="System.Int32, mscorlib">
-    <value>14</value>
+  <data name="&gt;&gt;Ans_2_TB.ZOrder" xml:space="preserve">
+    <value>9</value>
   </data>
-  <data name="&gt;&gt;PrevQuestion_Btn.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="Ans_1_CB.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
   <data name="Ans_1_CB.Location" type="System.Drawing.Point, System.Drawing">
     <value>73, 161</value>
   </data>
+  <data name="Ans_1_CB.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="Ans_1_CB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>189, 20</value>
+  </data>
+  <data name="Ans_1_CB.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="Ans_1_CB.Text" xml:space="preserve">
+    <value>This is the correct answer 1</value>
+  </data>
+  <data name="&gt;&gt;Ans_1_CB.Name" xml:space="preserve">
+    <value>Ans_1_CB</value>
+  </data>
+  <data name="&gt;&gt;Ans_1_CB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Ans_1_CB.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Ans_1_CB.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="Ans_1_TB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>73, 189</value>
+  </data>
+  <data name="Ans_1_TB.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="Ans_1_TB.Multiline" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="Ans_1_TB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>399, 24</value>
+  </data>
+  <data name="Ans_1_TB.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;Ans_1_TB.Name" xml:space="preserve">
+    <value>Ans_1_TB</value>
+  </data>
+  <data name="&gt;&gt;Ans_1_TB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Ans_1_TB.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Ans_1_TB.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="Question_TB.Location" type="System.Drawing.Point, System.Drawing">
+    <value>142, 4</value>
+  </data>
+  <data name="Question_TB.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
   <data name="Question_TB.Multiline" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="Ans_3_CB.AutoSize" type="System.Boolean, mscorlib">
+  <data name="Question_TB.Size" type="System.Drawing.Size, System.Drawing">
+    <value>960, 24</value>
+  </data>
+  <data name="Question_TB.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;Question_TB.Name" xml:space="preserve">
+    <value>Question_TB</value>
+  </data>
+  <data name="&gt;&gt;Question_TB.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Question_TB.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Question_TB.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="PrevQuestion_Btn.Text" xml:space="preserve">
-    <value>Prev</value>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>69, 8</value>
+  </data>
+  <data name="label1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 0, 4, 0</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>60, 16</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Question</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="Finish_Btn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>541, 304</value>
+  </data>
+  <data name="Finish_Btn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>107, 105</value>
+  </data>
+  <data name="Finish_Btn.TabIndex" type="System.Int32, mscorlib">
+    <value>24</value>
+  </data>
+  <data name="Finish_Btn.Text" xml:space="preserve">
+    <value>Finish</value>
+  </data>
+  <data name="&gt;&gt;Finish_Btn.Name" xml:space="preserve">
+    <value>Finish_Btn</value>
+  </data>
+  <data name="&gt;&gt;Finish_Btn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Finish_Btn.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Finish_Btn.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="testNumb_Label.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="testNumb_Label.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 15pt</value>
+  </data>
+  <data name="testNumb_Label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>550, 141</value>
+  </data>
+  <data name="testNumb_Label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>81, 29</value>
+  </data>
+  <data name="testNumb_Label.TabIndex" type="System.Int32, mscorlib">
+    <value>26</value>
+  </data>
+  <data name="testNumb_Label.Text" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="&gt;&gt;testNumb_Label.Name" xml:space="preserve">
+    <value>testNumb_Label</value>
+  </data>
+  <data name="&gt;&gt;testNumb_Label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;testNumb_Label.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;testNumb_Label.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
-  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>uk</value>
-  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>8, 16</value>
+  </data>
+  <data name="$this.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1183, 539</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Test_UserControl</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.UserControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>
