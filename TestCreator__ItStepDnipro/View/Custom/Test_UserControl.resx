@@ -198,6 +198,9 @@
   <data name="&gt;&gt;Ans_4_CB.ZOrder" xml:space="preserve">
     <value>4</value>
   </data>
+  <data name="Ans_4_TB.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
   <data name="Ans_4_TB.Location" type="System.Drawing.Point, System.Drawing">
     <value>700, 375</value>
   </data>
@@ -254,6 +257,9 @@
   </data>
   <data name="&gt;&gt;Ans_3_CB.ZOrder" xml:space="preserve">
     <value>6</value>
+  </data>
+  <data name="Ans_3_TB.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
   </data>
   <data name="Ans_3_TB.Location" type="System.Drawing.Point, System.Drawing">
     <value>69, 375</value>
@@ -312,6 +318,9 @@
   <data name="&gt;&gt;Ans_2_CB.ZOrder" xml:space="preserve">
     <value>8</value>
   </data>
+  <data name="Ans_2_TB.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
   <data name="Ans_2_TB.Location" type="System.Drawing.Point, System.Drawing">
     <value>704, 189</value>
   </data>
@@ -369,6 +378,9 @@
   <data name="&gt;&gt;Ans_1_CB.ZOrder" xml:space="preserve">
     <value>10</value>
   </data>
+  <data name="Ans_1_TB.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10pt</value>
+  </data>
   <data name="Ans_1_TB.Location" type="System.Drawing.Point, System.Drawing">
     <value>73, 189</value>
   </data>
@@ -395,6 +407,9 @@
   </data>
   <data name="&gt;&gt;Ans_1_TB.ZOrder" xml:space="preserve">
     <value>11</value>
+  </data>
+  <data name="Question_TB.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 14pt</value>
   </data>
   <data name="Question_TB.Location" type="System.Drawing.Point, System.Drawing">
     <value>142, 4</value>
